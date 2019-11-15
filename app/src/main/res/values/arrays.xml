@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Rounded Rectangle</item>
+        <item>Line</item>
+    </string-array>
+</resources>
